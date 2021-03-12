@@ -21,9 +21,7 @@ setup(
         'wmi==1.5.1',
         'urllib.request==3.7'
     ],
-    packages=find_packages(
-        include=['pyopt']
-    ),
+    
     classifiers=[
         'License :: OSI Approved :: No License',
         'Natural Language :: English',
